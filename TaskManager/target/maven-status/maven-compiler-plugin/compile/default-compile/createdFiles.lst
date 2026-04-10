@@ -1,0 +1,4 @@
+com\mycompany\taskmanager\App.class
+module-info.class
+com\mycompany\taskmanager\App$Task.class
+com\mycompany\taskmanager\SystemInfo.class
